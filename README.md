@@ -103,4 +103,11 @@ A synthetic preview is shown here for confidentiality, and the full process is d
 
 ---
 
+## 🎛️ Project 5 — Streaming Engagement Dashboard (React + Node)
+
+**Tech:** JavaScript, React, Node.js, Express, Recharts  
+**Summary:**  
+Built a small full-stack demo where a Node/Express API serves synthetic streaming engagement data (hours watched by genre and month), and a React frontend renders an interactive line chart and data table. This project showcases front-end visualization design, API integration, and data storytelling with a Netflix-style domain.
+
+
 If you'd like access to the recreated code or additional mock dashboards, feel free to reach out!
